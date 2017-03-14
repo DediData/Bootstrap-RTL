@@ -16,7 +16,7 @@ You can keep the original CSS and JS files of Bootstrap, To make the RTL compati
 
 ## Contribute
 
-if you want to contribute to this project, You can simply edit files and submit your changes here, Or if you know what is GitHub, So please fork this project :)
+if you want to contribute to this project, You can simply edit files and submit your changes here, Or if you know what is GitHub, So please [Fork](https://github.com/parsmizban/RTL-Bootstrap/fork) this project :)
 
 ## Author
 
