@@ -14,3 +14,8 @@ You can keep the original CSS and JS files of Bootstrap, To make the RTL compati
 <link rel='stylesheet' id='bootstrap-rtl-css' href='PATH_TO_YOUR_BOOTSTRAP/bootstrap.rtl.min.css?ver=3.3.7.1' type='text/css' media='all' />
 ```
 
+## Author
+
+**Farhad Sakhaei**
+
++ [ParsMizban](https://parsmizban.com)
