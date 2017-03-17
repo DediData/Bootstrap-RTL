@@ -1,7 +1,7 @@
 /*
  * Standard RTL for Bootstrap 3.3.7.1  (http://parsmizban.com)
- * Copyright 2017 ParsMizban Co.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Copyright (c) 2017 Farhad Sakhaei
+ * Licensed under MIT (https://github.com/parsmizban/RTL-Bootstrap/blob/master/LICENSE)
  */
 
 html {
@@ -1466,3 +1466,4 @@ button.list-group-item {
 .pull-left {
   float: right !important;
 }
+/*# sourceMappingURL=bootstrap.rtl.css.map */
