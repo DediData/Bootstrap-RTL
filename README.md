@@ -1,6 +1,6 @@
 # Standard RTL for Bootstrap
-# 3.3.7 Version 3.3.7.1
-# 4.0.0-alpha.6.1 Version 4.0.0-alpha.6.1.1
+**3.3.7 Version 3.3.7.1**
+**4.0.0-alpha.6.1 Version 4.0.0-alpha.6.1.1**
 
 Standard Bootstrap for Right to Left direction languages, Persian, Arabic, Hebrew
 
@@ -16,7 +16,7 @@ You can keep the original CSS and JS files of Bootstrap, To make the RTL compati
 <!-- RTL Bootstrap 3.3.7.1 -->
 <link rel='stylesheet' id='bootstrap-rtl-css' href='PATH/bootstrap.rtl.min.css?ver=3.3.7.1' type='text/css' />
 ```
-# OR
+OR
 ```html
 <!-- Original Bootstrap 4.0.0-alpha.6 -->
 <link rel='stylesheet' id='bootstrap-css' href='PATH/bootstrap.min.css?ver=4.0.0-alpha.6' type='text/css' />
