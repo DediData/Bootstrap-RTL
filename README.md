@@ -7,9 +7,7 @@
 
 **4.0.0-alpha.6.1 Version 4.0.0-alpha.6.1.1**
 
-This is a fix for Right to Left Language direction compatibility for Bootstrap
-
-It is the best and standard style which can be use for Persian (Farsi), Arabic, Hebrew languages
+This is a fix for Right to Left Language direction compatibility for Bootstrap, It is the best and standard style which can be use for Persian (Farsi), Arabic, Hebrew languages
 
 You can keep the original CSS and JS files of Bootstrap, To make the RTL compatibility just add the following line just after loading the Bootstrap CSS:
 
