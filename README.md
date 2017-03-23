@@ -1,4 +1,4 @@
-# Standard RTL Bootstrap
+# Standard RTL Bootstrap (Right To Left Support)
 **For Right to Left direction languages: Persian, Arabic, Hebrew**
 
 **RTL Bootstrap 3 , RTL Bootstrap 4**
