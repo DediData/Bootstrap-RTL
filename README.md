@@ -1,4 +1,6 @@
-# Standard RTL Bootstrap ( For Right to Left direction languages: Persian, Arabic, Hebrew )
+# Standard RTL Bootstrap
+**For Right to Left direction languages: Persian, Arabic, Hebrew**
+
 **3.3.7 Version 3.3.7.1**
 
 **4.0.0-alpha.6.1 Version 4.0.0-alpha.6.1.1**
