@@ -1,5 +1,5 @@
 /*
- * Standard RTL for Bootstrap 3.3.7.1  (http://parsmizban.com)
+ * Standard RTL for Bootstrap 3.3.7.2  (http://parsmizban.com)
  * Copyright (c) 2017 Farhad Sakhaei
  * Licensed under MIT (https://github.com/parsmizban/RTL-Bootstrap/blob/master/LICENSE)
  */
@@ -778,8 +778,8 @@ th {
   margin-right: 2px;
 }
 .dropdown-menu {
-  left: auto;
-  right: 0;
+  left: inherit;
+  right: auto;
   float: right;
   text-align: right;
 }
