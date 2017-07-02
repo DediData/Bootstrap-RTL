@@ -3,7 +3,7 @@
 
 **RTL Bootstrap 3 , RTL Bootstrap 4**
 
-**3.3.7 Version 3.3.7.1**
+**3.3.7 Version 3.3.7.2**
 
 **4.0.0-alpha.6.1 Version 4.0.0-alpha.6.1.1**
 
@@ -16,7 +16,7 @@ You can keep the original CSS and JS files of Bootstrap, To make the RTL compati
 <link rel='stylesheet' id='bootstrap-css' href='PATH/bootstrap.min.css?ver=3.3.7' type='text/css' />
 
 <!-- RTL Bootstrap 3.3.7.1 -->
-<link rel='stylesheet' id='bootstrap-rtl-css' href='PATH/bootstrap.rtl.min.css?ver=3.3.7.1' type='text/css' />
+<link rel='stylesheet' id='bootstrap-rtl-css' href='PATH/bootstrap.rtl.min.css?ver=3.3.7.2' type='text/css' />
 ```
 OR
 ```html
