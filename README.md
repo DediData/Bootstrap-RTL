@@ -15,7 +15,7 @@ You can keep the original CSS and JS files of Bootstrap, To make the RTL compati
 <!-- Original Bootstrap 3.3.7 -->
 <link rel='stylesheet' id='bootstrap-css' href='PATH/bootstrap.min.css?ver=3.3.7' type='text/css' />
 
-<!-- RTL Bootstrap 3.3.7.1 -->
+<!-- RTL Bootstrap 3.3.7.2 -->
 <link rel='stylesheet' id='bootstrap-rtl-css' href='PATH/bootstrap.rtl.min.css?ver=3.3.7.2' type='text/css' />
 ```
 OR
