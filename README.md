@@ -1,13 +1,13 @@
-# Standard RTL Bootstrap (Right To Left Support)
+# Standard Bootstrap RTL (Right To Left Support)
 **For Right to Left direction languages: Persian, Arabic, Hebrew**
 
-**RTL Bootstrap 3 , RTL Bootstrap 4**
+**Bootstrap RTL 3 , Bootstrap RTL 4**
 
 **3.3.7 Version 3.3.7.2**
 
 **4.0.0-alpha.6.1 Version 4.0.0-alpha.6.1.1**
 
-[CLICK HERE TO DOWNLOAD](https://github.com/parsmizban/RTL-Bootstrap/releases)
+[CLICK HERE TO DOWNLOAD](https://github.com/parsmizban/Bootstrap-RTL/releases)
 
 This is a fix for Right to Left Language direction compatibility for Bootstrap, It is the best and standard style which can be use for Persian (Farsi), Arabic, Hebrew languages
 
@@ -17,7 +17,7 @@ You can keep the original CSS and JS files of Bootstrap, To make the RTL compati
 <!-- Original Bootstrap 3.3.7 -->
 <link rel='stylesheet' id='bootstrap-css' href='PATH/bootstrap.min.css?ver=3.3.7' type='text/css' />
 
-<!-- RTL Bootstrap 3.3.7.2 -->
+<!-- Bootstrap RTL 3.3.7.2 -->
 <link rel='stylesheet' id='bootstrap-rtl-css' href='PATH/bootstrap.rtl.min.css?ver=3.3.7.2' type='text/css' />
 ```
 OR
@@ -31,7 +31,7 @@ OR
 
 ## Contribute
 
-if you want to contribute to this project, You can simply edit files and submit your changes here, Or if you know what is GitHub, So please [Fork](https://github.com/parsmizban/RTL-Bootstrap/fork) this project :)
+if you want to contribute to this project, You can simply edit files and submit your changes here, Or if you know what is GitHub, So please [Fork](https://github.com/parsmizban/Bootstrap-RTL/fork) this project :)
 
 ## Author
 
