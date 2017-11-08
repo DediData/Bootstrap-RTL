@@ -7,7 +7,7 @@
 
 **4.0.0-alpha.6.1 Version 4.0.0-alpha.6.1.1**
 
-[CLICK HERE TO DOWNLOAD](https://github.com/parsmizban/Bootstrap-RTL/releases)
+[CLICK HERE TO DOWNLOAD](https://github.com/DediData/Bootstrap-RTL/releases)
 
 This is a fix for Right to Left Language direction compatibility for Bootstrap, It is the best and standard style which can be use for Persian (Farsi), Arabic, Hebrew languages
 
@@ -39,10 +39,9 @@ For Bootstrap 4.0.0.alpha.6:
 
 ## Contribute
 
-if you want to contribute to this project, You can simply edit files and submit your changes here, Or if you know what is GitHub, So please [Fork](https://github.com/parsmizban/Bootstrap-RTL/fork) this project :)
+if you want to contribute to this project, You can simply edit files and submit your changes here, Or if you know what is GitHub, So please [Fork](https://github.com/DediData/Bootstrap-RTL/fork) this project :)
 
 ## Author
 
 **Farhad Sakhaei**
-
-+ [ParsMizban](https://parsmizban.com)
++ [DediData](https://dedidata.com)
