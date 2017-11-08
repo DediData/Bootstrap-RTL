@@ -24,5 +24,4 @@ if you want to contribute to this project, You can simply edit files and submit 
 ## Author
 
 **Farhad Sakhaei**
-
-+ [ParsMizban](https://parsmizban.com)
++ [DediData](https://dedidata.com)
