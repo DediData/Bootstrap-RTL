@@ -41,7 +41,4 @@ For Bootstrap 4.0.0.alpha.6:
 
 if you want to contribute to this project, You can simply edit files and submit your changes here, Or if you know what is GitHub, So please [Fork](https://github.com/DediData/Bootstrap-RTL/fork) this project :)
 
-## Author
-
-**Farhad Sakhaei**
 + [DediData](https://dedidata.com)
